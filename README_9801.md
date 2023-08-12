@@ -14,4 +14,3 @@ d.	Agregue una sección que manifieste el proceso de QA.
 8.	Añada un archivo readme (readme_carne) con los pasos que realizo.
 9.	Proceda a subir los cambios al repositorio remoto.
 10.	Realice un Pull Request como contribución a la fuente principal.
-
